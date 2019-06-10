@@ -1,2 +1,2 @@
 # apartmani-bar-bato
-Stranica sa nasim apartmanima.
+Sajt Apartmani Bato. Bar, Susanj Ilino bb.
